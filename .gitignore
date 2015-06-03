@@ -60,3 +60,4 @@ log.txt
 */game/saves/
 traceback.txt
 project.json
+*.bak
