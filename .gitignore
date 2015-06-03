@@ -1,4 +1,5 @@
-*.pyc
-*.pyo
+*.rpyb
+*.rpyc
 *.bak
 game/saves/
+tmp/
